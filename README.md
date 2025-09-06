@@ -372,7 +372,6 @@ streamlit run dashboards/app_streamlit.py
 
 ## 16) لایسنس و ارجاع
 - **License**: MIT 
-- **Citation** (در صورت استفاده در مقاله/پایان‌نامه):
 
 ```
 @misc{smart_dt_2025,
