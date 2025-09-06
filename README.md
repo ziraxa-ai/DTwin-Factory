@@ -376,9 +376,9 @@ streamlit run dashboards/app_streamlit.py
 ```
 @misc{smart_dt_2025,
   title  = {Smart Digital Twin for Manufacturing},
-  author = {Your Name},
+  author = {Taha saadat},
   year   = {2025},
-  url    = {https://github.com/your/repo}
+  url    = {https://github.com/ziraxa-ai/DTwin-Factory}
 }
 ```
 
