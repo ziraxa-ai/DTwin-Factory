@@ -158,20 +158,18 @@ pip install -r requirements.txt
 
 **requirements.txt (نمونه)**
 ```
-simpy
-pandas
-numpy
-polars
-pyarrow
-matplotlib
-plotly
-streamlit
-pytorch-lightning; platform_system!="Windows"
-torch
-stable-baselines3[extra]
-gymnasium
-ray[air]
-pyyaml
+simpy==4.1.1
+numpy>=1.24
+pandas>=2.0
+pyyaml>=6.0
+gymnasium>=0.29
+torch>=2.1
+streamlit>=1.31
+plotly>=5.15
+matplotlib>=3.8
+mlflow>=2.12
+orjson>=3.9
+scikit-learn>=1.3
 ```
 
 ---
