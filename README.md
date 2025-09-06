@@ -107,7 +107,7 @@
 
 ## 6) ساختار مخزن (پیشنهادی)
 ```
-smart-dt/
+DTwin-Factory/
 ├─ sims/                 # مدل‌های شبیه‌سازی (SimPy/Unity bridge)
 │  ├─ miniline.py
 │  ├─ unity_bridge.py
