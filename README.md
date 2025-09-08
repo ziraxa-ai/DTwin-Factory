@@ -135,6 +135,6 @@ jupyter notebook notebooks/00_exploration.ipynb
 - **نام:** Taha Saadat  
 - **ایمیل:** [ziraxa.ai@gmail.com](mailto:ziraxa.ai@gmail.com)  
 - **LinkedIn:** [Taha Saadat](https://www.linkedin.com/in/taha-saadat)  
-- **GitHub:** [Zirexa-ai](https://github.com/Zirexa-ai)  
+- **GitHub:** [Ziraxa-ai](https://github.com/Ziraxa-ai)  
 - **X (Twitter):** [@Ziraxa_ai](https://x.com/Ziraxa_ai)
 
