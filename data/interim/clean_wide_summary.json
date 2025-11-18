@@ -1,0 +1,20 @@
+{
+  "rows": 14400,
+  "stations": 8,
+  "duration_s_min": 0,
+  "duration_s_max": 1799,
+  "columns": [
+    "timestamp",
+    "station_id",
+    "state_code",
+    "alarm_code",
+    "rul_s",
+    "pressure",
+    "flow",
+    "power_kW",
+    "temperature",
+    "vibration",
+    "machine_state",
+    "t_abs_s"
+  ]
+}

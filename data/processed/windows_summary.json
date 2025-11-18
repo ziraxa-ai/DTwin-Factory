@@ -1,0 +1,17 @@
+{
+  "train": {
+    "n_windows": 1928,
+    "seq_len": 60,
+    "n_features": 6
+  },
+  "val": {
+    "n_windows": 344,
+    "seq_len": 60,
+    "n_features": 6
+  },
+  "test": {
+    "n_windows": 344,
+    "seq_len": 60,
+    "n_features": 6
+  }
+}
