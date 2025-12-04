@@ -166,67 +166,67 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
-main.tex:8: LaTeX Error: Unicode character س (U+0633)
+main.tex:8: LaTeX Error: Unicode character Ø³ (U+0633)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 س
-      لام! این اولین پروژه \LaTeX{} من است.
+l.8 Ø³
+      Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ل (U+0644)
+main.tex:8: LaTeX Error: Unicode character Ù„ (U+0644)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سل
-        ام! این اولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„
+        Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ا (U+0627)
+main.tex:8: LaTeX Error: Unicode character Ø§ (U+0627)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلا
-          م! این اولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§
+          Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character م (U+0645)
+main.tex:8: LaTeX Error: Unicode character Ù… (U+0645)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام
-            ! این اولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…
+            ! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ا (U+0627)
+main.tex:8: LaTeX Error: Unicode character Ø§ (U+0627)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! ا
-                ین اولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§
+                ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -235,65 +235,65 @@ main.tex:8: LaTeX Error: Une LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! ای
-                  ن اولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒ
+                  Ù† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ن (U+0646)
+main.tex:8: LaTeX Error: Unicode character Ù† (U+0646)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این
-                     اولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ†
+                     Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ا (U+0627)
+main.tex:8: LaTeX Error: Unicode character Ø§ (U+0627)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این ا
-                       ولین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§
+                       ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character و (U+0648)
+main.tex:8: LaTeX Error: Unicode character Ùˆ (U+0648)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این او
-                         لین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§Ùˆ
+                         Ù„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ل (U+0644)
+main.tex:8: LaTeX Error: Unicode character Ù„ (U+0644)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اول
-                           ین پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„
+                           ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ی (U+06CC)
+main.tex:8: LaTeX Error: Unicode character ÛŒ (U+06CC)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -302,293 +302,293 @@ Type  H <return>  for immediate help.
                      te help.
  ...                                              
                                                   
-l.8 سلام! این اولی
-                             ن پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒ
+                             Ù† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ن (U+0646)
+main.tex:8: LaTeX Error: Unicode character Ù† (U+0646)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اولین
-                                پروژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ†
+                                Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character پ (U+067E)
+main.tex:8: LaTeX Error: Unicode character Ù¾ (U+067E)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اولین پ
-                                  روژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾
+                                  Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ر (U+0631)
+main.tex:8: LaTeX Error: Unicode character Ø± (U+0631)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اولین پر
-                                    وژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±
+                                    ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character و (U+0648)
+main.tex:8: LaTeX Error: Unicode character Ùˆ (U+0648)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اولین پرو
-                                      ژه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±Ùˆ
+                                      Ú˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ژ (U+0698)
+main.tex:8: LaTeX Error: Unicode character Ú˜ (U+0698)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اولین پروژ
-                                        ه \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜
+                                        Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ه (U+0647)
+main.tex:8: LaTeX Error: Unicode character Ù‡ (U+0647)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 سلام! این اولین پروژه
-                                           \LaTeX{} من است.
+l.8 Ø³Ù„Ø§Ù…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡
+                                           \LaTeX{} Ù…Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character م (U+0645)
+main.tex:8: LaTeX Error: Unicode character Ù… (U+0645)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�! این اولین پروژه \LaTeX{} م
-                                                  ن است.
+l.8 ...…! Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…
+                                                  Ù† Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ن (U+0646)
+main.tex:8: LaTeX Error: Unicode character Ù† (U+0646)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... این اولین پروژه \LaTeX{} من
-                                                   است.
+l.8 ... Ø§ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù†
+                                                   Ø§Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ا (U+0627)
+main.tex:8: LaTeX Error: Unicode character Ø§ (U+0627)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ین اولین پروژه \LaTeX{} من ا
-                                                  ست.
+l.8 ...ÛŒÙ† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§
+                                                  Ø³Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character س (U+0633)
+main.tex:8: LaTeX Error: Unicode character Ø³ (U+0633)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ن اولین پروژه \LaTeX{} من اس
-                                                  ت.
+l.8 ...Ù† Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³
+                                                  Øª.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:8: LaTeX Error: Unicode character ت (U+062A)
+main.tex:8: LaTeX Error: Unicode character Øª (U+062A)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... اولین پروژه \LaTeX{} من است
+l.8 ... Ø§ÙˆÙ„ÛŒÙ† Ù¾Ø±ÙˆÚ˜Ù‡ \LaTeX{} Ù…Ù† Ø§Ø³Øª
                                                   .
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ی (U+06CC)
+main.tex:10: LaTeX Error: Unicode character ÛŒ (U+06CC)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ی
-       ک فرمول ساده:
+l.10 ÛŒ
+       Ú© ÙØ±Ù…ÙˆÙ„ Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ک (U+06A9)
+main.tex:10: LaTeX Error: Unicode character Ú© (U+06A9)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک
-          فرمول ساده:
+l.10 ÛŒÚ©
+          ÙØ±Ù…ÙˆÙ„ Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ف (U+0641)
+main.tex:10: LaTeX Error: Unicode character Ù (U+0641)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک ف
-            رمول ساده:
+l.10 ÛŒÚ© Ù
+            Ø±Ù…ÙˆÙ„ Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ر (U+0631)
+main.tex:10: LaTeX Error: Unicode character Ø± (U+0631)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فر
-              مول ساده:
+l.10 ÛŒÚ© ÙØ±
+              Ù…ÙˆÙ„ Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character م (U+0645)
+main.tex:10: LaTeX Error: Unicode character Ù… (U+0645)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرم
-                ول ساده:
+l.10 ÛŒÚ© ÙØ±Ù…
+                ÙˆÙ„ Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character و (U+0648)
+main.tex:10: LaTeX Error: Unicode character Ùˆ (U+0648)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرمو
-                  ل ساده:
+l.10 ÛŒÚ© ÙØ±Ù…Ùˆ
+                  Ù„ Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ل (U+0644)
+main.tex:10: LaTeX Error: Unicode character Ù„ (U+0644)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرمول
-                     ساده:
+l.10 ÛŒÚ© ÙØ±Ù…ÙˆÙ„
+                     Ø³Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character س (U+0633)
+main.tex:10: LaTeX Error: Unicode character Ø³ (U+0633)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرمول س
-                       اده:
+l.10 ÛŒÚ© ÙØ±Ù…ÙˆÙ„ Ø³
+                       Ø§Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ا (U+0627)
+main.tex:10: LaTeX Error: Unicode character Ø§ (U+0627)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرمول سا
-                         ده:
+l.10 ÛŒÚ© ÙØ±Ù…ÙˆÙ„ Ø³Ø§
+                         Ø¯Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character د (U+062F)
+main.tex:10: LaTeX Error: Unicode character Ø¯ (U+062F)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرمول ساد
-                           ه:
+l.10 ÛŒÚ© ÙØ±Ù…ÙˆÙ„ Ø³Ø§Ø¯
+                           Ù‡:
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-main.tex:10: LaTeX Error: Unicode character ه (U+0647)
+main.tex:10: LaTeX Error: Unicode character Ù‡ (U+0647)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 یک فرمول ساده
+l.10 ÛŒÚ© ÙØ±Ù…ÙˆÙ„ Ø³Ø§Ø¯Ù‡
                              :
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -603,21 +603,3 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
-Here is how much of TeX's memory you used:
- 2019 strings out of 474486
- 30923 string characters out of 5753573
- 1925542 words of memory out of 5000000
- 24331 multiletter control sequences out of 15000+600000
- 558523 words of font info for 38 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,5n,65p,255b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on "C:/Users\Pars\Desktop\my computer\taha\zohram\Ziraxa\project
-\DL\IE-ai-enginieer\out\main.pdf" (1 page, 30449 bytes).
-PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
